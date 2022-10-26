@@ -1,7 +1,7 @@
 # FinShareBot
 FinShareBot - https://twitter.com/FinShareBot
 
-A simple twitter bot that sends Financial News and Memes/Articles depending on whether the Stock Market is open!
+A simple twitter bot that sends Financial News and Reddit Memes/Articles depending on whether the Stock Market is open!
 
 When the stock markets are open, the Bot will send Financial News every hour until the stock market closes.
 When the stock markets are closed, the Bot will send Memes or trending Posts from Reddit!
