@@ -15,7 +15,7 @@ The project relies on Reddit, Twitter and Yahoo Finance APIs!
 
 ## Project Setup
 1. Download the project and extract to a location of your choice
-2. There is a folder called 'Dependencies', it contains all the Jar files that you must set up for your project
+2. There is a folder called 'JavaLibraries', it contains all the Jar files that you must set up for your project
 3. Set up the dependencies in your Java Project (https://www.ibm.com/docs/en/app-connect/11.0.0?topic=SSTTDS_11.0.0/com.ibm.etools.mft.doc/ac30280_.htm)
 4. Register a Twitter and Yahoo Developer Account. Get the API credentials from there. The reddit API does not need any authentication!
 5. Open up api.js, enter your API Credentials
